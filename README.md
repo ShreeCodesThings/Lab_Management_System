@@ -1,4 +1,4 @@
-The project was inspired by a challenge that might have occurred as a part of post pandemic and healthcare reporting. 
+The project was inspired by a challenge that might have occurred as a part of post pandemic and healthcare reporting. It serves as a centralized repository helping with Lab Management. 
 
 The project builds on a data model that was ideated to hold different moving parts and also enable reporting through multiple tables. 
 
